@@ -25,5 +25,11 @@
 - ls
 
 - Python encode-slr_enc.py
+
+## SINGLE COMMAND
+
+- ls
+
+- Python encode-slr_enc.py
 #
 [![Screenshot-20230520-002304.jpg](https://i.postimg.cc/YCKsLxS1/Screenshot-20230520-002304.jpg)](https://postimg.cc/9rbpvZZM)
